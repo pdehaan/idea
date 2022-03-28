@@ -6,6 +6,7 @@
     "npm",
     "filter",
     "eleventy",
+    "eleventy-plugin",
     "11ty"
   ],
   "author": "shawnsandy <shawnsandy04@gmail.com>",
